@@ -33,5 +33,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 </div>
 <br>
-
-![Snake animation](https://github.com/RaphaelOliveir/RaphaelOliveir/blob/output/github-contribution-grid-snake.svg)
