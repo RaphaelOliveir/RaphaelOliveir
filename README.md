@@ -1,7 +1,7 @@
 <h1 align="center">What's up?🖖​</h1>
 
 `What you love? What you're good at? What the world needs? What you can get paid for?`<br>
-`Yeah... My philosophy of life is` **IKIGAY** ☯️​🌿
+`Yeah... My philosophy of life is` **IKIGAI** ☯️​🌿
 
 `We can run 🟡JS/TS🟦 on a toaster...`
 
