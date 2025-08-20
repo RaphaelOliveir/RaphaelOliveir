@@ -5,6 +5,8 @@
 
 `We can run 🟡JS/TS🟦 on a toaster...`
 
+`How about AI??? 👀​🤖​`
+
 ### `Don't believe these metrics, but they are here if you find them relevant:`
 <div>
 <a href="https://github.com/RaphaelOliveir">
