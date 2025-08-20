@@ -7,7 +7,7 @@
 
 `How about AI??? 👀​🤖​`
 
-### `Don't believe these metrics, but they are here if you find them relevant:`
+### `Don't believe these metrics but if it's relevant to you...`
 <div>
 <a href="https://github.com/RaphaelOliveir">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelOliveir&layout=compact&langs_count=7&theme=dracula"/>
